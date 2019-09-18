@@ -1,0 +1,49 @@
+{
+    "name": "lavalite/bixo-framework",
+    "description": "The Bixo framework",
+    "keywords": ["framework", "bixo"],
+    "license": "MIT",
+    "homepage": "http://bixo.lavalite.org",
+    "authors": [
+        {
+            "name": "Renfos Technologies",
+            "email": "info@renfos.com"
+        },
+        {
+            "name": "George John",
+            "email": "george@renfos.com"
+        }
+    ],
+    "require": {
+        "litepie/activities": "^5.0",
+        "litepie/database": "^5.0",
+        "litepie/filer": "^5.0",
+        "litepie/form": "^5.0",
+        "litepie/hashids": "^5.0",
+        "litepie/install": "^5.0",
+        "litepie/menu": "^5.0",
+        "litepie/node": "^5.0",
+        "litepie/repository": "^5.0",
+        "litepie/roles": "^5.0",
+        "litepie/settings": "^5.0",
+        "litepie/team": "^5.0",
+        "litepie/theme": "^5.0",
+        "litepie/trans": "^5.0",
+        "litepie/user": "^5.0"
+    },
+    "require-dev": {
+        "barryvdh/laravel-debugbar": "~3.2",
+        "mockery/mockery": "^1.0",
+        "phpunit/phpunit": "^7.5|^8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Lavalite\\Bixo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
