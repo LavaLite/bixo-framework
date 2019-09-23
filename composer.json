@@ -18,8 +18,8 @@
         "litepie/activities": "^5.0",
         "litepie/database": "^5.0",
         "litepie/filer": "^5.0",
-        "litepie/form": "^5.0",
         "litepie/hashids": "^5.0",
+        "litepie/http": "^5.0",
         "litepie/install": "^5.0",
         "litepie/master": "^5.0",
         "litepie/menu": "^5.0",
@@ -28,7 +28,6 @@
         "litepie/roles": "^5.0",
         "litepie/settings": "^5.0",
         "litepie/team": "^5.0",
-        "litepie/theme": "^5.0",
         "litepie/trans": "^5.0",
         "litepie/user": "^5.0"
     },
