@@ -21,6 +21,7 @@
         "litepie/form": "^5.0",
         "litepie/hashids": "^5.0",
         "litepie/install": "^5.0",
+        "litepie/master": "^5.0",
         "litepie/menu": "^5.0",
         "litepie/node": "^5.0",
         "litepie/repository": "^5.0",
