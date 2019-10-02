@@ -1,11 +1,10 @@
 {
-    "name": "lavalite/bixo-framework",
+    "name": "bixo/framework",
     "description": "The Bixo framework",
     "keywords": ["framework", "bixo"],
     "license": "MIT",
     "homepage": "http://bixo.lavalite.org",
-    "authors": [
-        {
+    "authors": [{
             "name": "Renfos Technologies",
             "email": "info@renfos.com"
         },
